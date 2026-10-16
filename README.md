@@ -6,7 +6,7 @@ I am developing projects in LawTech, music technology, and veteran support. The 
 
 ## Current projects
 
-- **[LegalHub](https://github.com/jrms999/LegalHub)** — an early guided claim-intake prototype using FastAPI and Next.js. Document generation is still a placeholder and the app is not a filing service.
+- **[LegalHub](https://github.com/jrms999/LegalHub)** — an early guided claim-intake prototype using FastAPI and Next.js. The local Scotland flow generates a draft summary, item list and timeline; England-and-Wales document templates remain placeholders. This is a local demo, not a filing service.
 - **[PedalScan](https://github.com/jrms999/PedalScan_app)** — an Expo and FastAPI prototype for photographing guitar pedals. Recognition and pricing are planned; the current flow demonstrates image upload.
 - **[Resonance](https://github.com/jrms999/Resonance)** — a Python backend prototype exploring music streaming, engagement, and rewards.
 - **[SVR Support App](https://github.com/jrms999/svr-support-app)** — a resident-support PWA concept for veterans' housing, with demo content and no live resident data.
